@@ -2,9 +2,10 @@
 --------------------------------------------------------------------------------------------------------
 Guide -> On-Line System Identification of Electric Power System Linear Models
 --------------------------------------------------------------------------------------------------------
-National Autonomous University of Mexico (UNAM)
-Author:   José Alberto Moreno Corbea                
+Author:   José Alberto Moreno Corbea 
 
+National Autonomous University of Mexico (UNAM)
+           
 This file contains the instructions to run the Electric Power System Simulator (EPS_SIMULATOR)
 and the tool for the identification of its linear model. DIgSILENT and MATLAB environments are
 used in this implementation. The entire application was developed using the DIgSILENT Programming
