@@ -2,6 +2,7 @@
 Guide -> On-Line System Identification of Electric Power System Linear Models
 --------------------------------------------------------------------------------------------------------
 National Autonomous University of Mexico (UNAM)
+
 Author:   José Alberto Moreno Corbea                
 
 This file contains the instructions to run the Electric Power System Simulator (EPS_SIMULATOR)
@@ -34,5 +35,7 @@ Instructions:
 This application was developed on a PC with the following properties
 --------------------------------------------------------------------------------------------------------
 Processor: Intel(R) Xeon(R) CPU E5-1620 v4, 3.5 GHz 
+
 RAM      : 32 GB
+
 OS       : Window 10, 64 bits
